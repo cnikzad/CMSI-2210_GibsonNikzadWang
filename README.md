@@ -1,4 +1,4 @@
-*Welcome to Our Repository11*
+**Welcome to Our Repository**
 Developers: 
 - Cyrus Nikzad 
 - Jason Wang 
