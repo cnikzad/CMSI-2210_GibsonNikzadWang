@@ -1,5 +1,6 @@
 **Welcome to Our Repository**
-Developers: 
+
+- Developers: 
 - Cyrus Nikzad 
 - Jason Wang 
 - Henry Gibson
