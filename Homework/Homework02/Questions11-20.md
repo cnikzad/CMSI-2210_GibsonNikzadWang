@@ -23,7 +23,7 @@
 - **Response:** 151
 
 - **Question 19:** What is the decimal value of 11111111 base 2 
-**Response:** 255
+- **Response:** 255
 
 - **Question 20:** What is the largest unsigned integer value that will fit into 16 bits?
 - **Response:** 2^(16) = 65,536 2^(16) - 1 = 65,535
