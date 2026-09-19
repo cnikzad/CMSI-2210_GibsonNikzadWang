@@ -1,0 +1,54 @@
+
+Evaluation Criteria ~ homework02
+CMSI 2210 Section 01 Fall 2026
+=================================
+
+BOOK PROBLEMS
+   Question 01    1/1 pt.
+   Question 02    1/1 pt.
+   Question 03    1/1 pt.
+   Question 04    1/1 pt.
+   Question 05    1/1 pt.
+   Question 06    1/1 pt.
+   Question 07    1/1 pt.
+   Question 08    1/1 pt.
+   Question 09    1/1 pt.
+   Question 10    1/1 pt.
+   Question 11    1/1 pt.
+   Question 12    1/1 pt.
+   Question 13    1/1 pt.
+   Question 14  0.5/1 pt.
+   Question 15    0/1 pt.
+   Question 16    0/1 pt.
+   Question 17    1/1 pt.
+   Question 18    1/1 pt.
+   Question 19    1/1 pt.
+   Question 20    1/1 pt.
+
+Total possible points 20
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 17.5/20 which is 87.5% which is a B-plus
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+problem  5? Partially Correct but full credit
+   You say Dennis Ritchie only; he was helped by Brian Kernighan.
+
+problem 14? Partially Correct
+   You describes the program counter register specifically, rather than
+   answering what a register is in general.
+
+problem 15 Incorrect
+   You states that both application software and system software are written
+   for people.  System software is written for computers/operating system
+   functionality, not people.
+
+problem 16 Incorrect
+   "cmp rdi, rsi" is assembly language, not machine language.  Machine
+   language is ones and zeros.
+
+Nice job!
