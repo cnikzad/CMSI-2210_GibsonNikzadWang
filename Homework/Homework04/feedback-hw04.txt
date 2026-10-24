@@ -1,0 +1,71 @@
+
+
+Evaluation Criteria ~ homework04
+CMSI 2210 Section 01 Fall 2026
+=================================
+
+LOGIC DESIGN
+   Logic Question 1a         10 pts.
+   Logic Question 1b          5 pts.
+   Logic Question 2          10 pts.
+
+REGISTER OPERATIONS
+   Register clear even        2 pts.
+   Register set last 3        2 pts.
+   Reg./8 remainder           2 pts.
+   Reg. set to -1             2 pts.
+   Reg. invert 2 MSBs         2 pts.
+   Register computation       2 pts.
+
+"C" CODE FIZZ-BUZZ PROGRAM
+   Program compiles           5 pts.
+   Program runs               4 pts.
+   Produces correct output    1 pts.
+
+STANLEY/PENGUIN ASSEMBLY
+   Q5 - program 1a            0 pts.
+   Q6 - program 1b           11 pts.
+   Q7 - GCD prog.             5 pts.
+   Q8 - swap frag             5 pts.
+   Q9 - jmp to addr           5 pts.
+
+REGISTER INVESTIGATION
+   Q10a - high level expl.    5 pts.
+   Q10b - Why?                5 pts.
+
+
+Total possible points       100 points
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 83.0/ 100.0 which is 83% which is a B
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+question 5, this is not Stanley/Penguin code.  There is no "out" instruction
+   in the language, you don't define any veriable storage locations, there
+   is no "JUMP" instruction, and the last three lines don't do anything.
+question 6, the machine code you've generated may or may not actually be
+   what you're looking for, but given the fact that you are trying to
+   translate something from the previous problem which doesn't make sense,
+   this probably won't be correct either.  Still you get credit for the
+   attempt.
+question 7, this is not Stanley/Penguin code either.  You really need to
+   re-visit the examples from class, from the website, and from the video
+   recordings and the previous quiz.  Half credit for the effort.
+
+Otherwise, good job!
+
+========================================================
+SEMESTER SCORE SO FAR:
+
+   homework01 ~ 100.00% of  5 points =  5.00 points
+   homework02 ~  87.50% of  5 points =  4.38 points
+   homework03 ~  99.83% of  5 points =  4.99 points
+   homework04 ~  83.00% of  5 points =  4.15 points
+                                total: 18.52 out of 20.0 = 92.60%
+                                which is an A-minus
+
+Keep up the good work!
